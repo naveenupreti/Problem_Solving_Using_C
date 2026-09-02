@@ -39,6 +39,10 @@
       {
         "path": "Notes_Programs/UNIT-1/Algorithms & Flowcharts.ppt",
         "hidden": true
+      },
+      {
+        "path": "Notes_Programs/UNIT-1/c_operators.c",
+        "hidden": false
       }
     ],
     "UNIT-2": [
