@@ -22,10 +22,6 @@
         "path": "Notes_Programs/UNIT-1/LUC_PrecedenceTable_StandardLibraryFunctions_ASCII_chart.pdf"
       },
       {
-        "path": "Notes_Programs/UNIT-1/test.c",
-        "hidden": true
-      },
-      {
         "path": "Notes_Programs/UNIT-1/data_types_size.c"
       },
       {
@@ -74,10 +70,6 @@
       },
       {
         "path": "Notes_Programs/UNIT-3/StringFunctions.c"
-      },
-      {
-        "path": "Notes_Programs/UNIT-3/test.c",
-        "hidden": true
       },
       {
         "path": "Notes_Programs/UNIT-3/CallByValue_Reference.c",
@@ -251,30 +243,10 @@
       "path": "ebooks/LetUsC_YPK_17thEdition.pdf"
     },
     {
-      "path": "ebooks/Exploring_C.pdf",
-      "hidden": true
-    },
-    {
       "path": "ebooks/LetUsC_YPK_5thEdition.pdf"
     },
     {
       "path": "ebooks/C_The_Complete_Reference_4th_Edition_Herbert Schildt.pdf"
-    },
-    {
-      "path": "ebooks/WebTutorials.html",
-      "hidden": true
-    },
-    {
-      "path": "ebooks/C_Programming_Tutorial_tutorialspoint.com.pdf",
-      "hidden": true
-    },
-    {
-      "path": "ebooks/Deitel_C_How_To_Program_6th_Edition.pdf",
-      "hidden": true
-    },
-    {
-      "path": "ebooks/C_Programming_Tutorial_K&R.pdf",
-      "hidden": true
     },
     {
       "path": "ebooks/DebianLinuxCommands.txt",
@@ -392,10 +364,6 @@
     },
     {
       "path": "ExamPapers/Sessional_2_Paper_BMC102.docx",
-      "hidden": true
-    },
-    {
-      "path": "ExamPapers/PSC_2025-26.pdf",
       "hidden": true
     },
     {
